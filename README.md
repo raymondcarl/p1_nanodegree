@@ -1,3 +1,5 @@
+This was the first project in the Udacity Self-Driving Car NanoDegree.  I did this project quite quickly, but I struggled in that nanodegree because I had no experience with Neural Networks, so I went back and started with the Deep Learning Nanodegree.  Below, you can see a very interesting application of OpenCV to detect the lines on a road.
+
 #**Finding Lane Lines on the Road** 
 <img src="laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
